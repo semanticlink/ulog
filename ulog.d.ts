@@ -85,6 +85,6 @@ export interface ULog extends LevelConstants {
     disable(): void
 }
 
-declare const ulog: ULog
+declare const ulog: ULog;
 
-export default ulog
+export default ulog;
